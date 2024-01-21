@@ -1,1 +1,1 @@
-# Just some practice examples including joins, subqueries etc
+# Just some practice examples including joins, subqueries etc (working with Sakila sample database)
