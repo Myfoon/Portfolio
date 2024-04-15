@@ -1,3 +1,16 @@
+/* Task 1 . Develop a database to track and manage the workloads, capacities, and operations of healthcare facilities within our city. 
+
+The database should include information about each institution, such as their location, staff, available resources, capabilities (the amount of patients that given institution can handle daily), 
+and records of patient visits.
+
+Your database must be in 3NF and includes 6+ tables
+Use appropriate data types for each column and apply DEFAULT values, and GENERATED ALWAYS AS columns as required.
+Create relationships between tables using primary and foreign keys.
+Apply three check constraints (including NOT NULL) across the tables to restrict certain values
+Populate the tables with the sample data generated, ensuring each table has at least 5+ rows (for a total of 30+ rows in all the tables) for the last 3 months. */
+
+
+
 /*As a step 0 zero before running the script, please create database with following query:
  
 CREATE DATABASE healthcare_facilities;
